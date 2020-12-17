@@ -1,0 +1,138 @@
+############################ banner ##########################
+banner:
+  enable : true
+  title : "The Western Ghat Farmer Producer Company"
+  content : "We are a farmers collective owned and managed by farmers. We promote nature friendly cultivation in the eco sensitive Western Ghat region. 
+             Our goal is to empower farmers to use sustainable farming techniques while ensuring fair value for their produce."
+  image : "images/banner.jpg"
+  # button
+  button: 
+    enable : false
+    label : "Our Services"
+    link : "services"
+  # demo video
+  video:
+    enable : false
+    videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
+
+########################## About ##############################
+about:
+  enable : true
+  title : "What We Do"
+  content : "The Western Ghat region is one of the bio diverse parts of the world with a variety of unique plants that are native to this region. Quite a number of these plants and their products are high in nutritional and medicinal properties. At WEFPCO, we hope to promote the organic and natural cultivation of these plants in a sustainable manner without the use of harmful chemicals and pesticides.
+            
+             Our primary focus is Moringa (Moringa Olifiera) cultivation and the production of products derived from this super food."
+  image : "images/about.jpg" 
+
+ 
+######################## raw material #######################
+material:
+  enable : false
+  title : "Ingredients Of Our Products"
+  subtitle : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
+          dol."
+  materialItem:
+    # material item loop
+    - title : "Matcha Seeds"
+      image : "images/material/material-1.png"
+      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      
+    # material item loop
+    - title : "Aloe Vera"
+      image : "images/material/material-2.png"
+      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      
+    # material item loop
+    - title : "Turmeric"
+      image : "images/material/material-3.png"
+      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      
+    # material item loop
+    - title : "Tulshi leaf"
+      image : "images/material/material-4.png"
+      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+
+########################### Activities #########################
+advantage:
+  enable : true
+  title : "Our activities and services"
+  subtitle : "Empower -> Sustain -> Grow Together"
+  image : "images/services.jpg"
+  advantageList:
+    # advantage list loop
+    - listItem : "Training in Eco-friendly nature farming methods"
+    - listItem : "Provide Technical Know-how for farmers"
+    - listItem : "Provide seeds and Eco-friendly fertilizers"
+    - listItem : "Arrange purchases of Farming equipments"
+    - listItem : "Marketing support for farmers"
+    - listItem : "Classes on why protecting the environment benefits the farmer"
+    - listItem : "Arrange field trips to various farms in the region"
+    - listItem : "Guidance and support for farmers in the production of value added items" 
+    - listItem : "Soil examination support and recommendations to improve soil quality"
+    - listItem : "Regular follow ups with partnered farmers and information sharinh"
+
+
+######################## Promo Video ##########################
+video:
+  enable : false
+  title : "How To Use This Product?"
+  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
+          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et."
+  videoThumb : "images/video-thumb.jpg"
+  videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
+
+
+########################## Testimonial ########################
+testimonial:
+  enable : true
+  title : "Meet our promoters"
+  testimonialItem:
+    # testimonial item loop
+    - name : "P.V.Krishnan Kutty"
+      image : "images/clients/promo2.jpg" # size 100px*100px
+      designation : "Experiened Farmer and Environmentalist"
+
+    # testimonial item loop
+    - name : "K.N.Chandrasekharan"
+      image : "images/clients/promo1.jpg" # size 100px*100px
+      designation : "Retired Bank Manager and Farmer"
+
+    # testimonial item loop
+    - name : "T.V.Sreedharan"
+      image : "images/clients/promo9.jpg" # size 100px*100px
+      designation : "Businessman and Farmer"
+
+    # testimonial item loop
+    - name : "K.P.Pushpakaran"
+      image : "images/clients/promo3.jpg" # size 100px*100px
+      designation : "Retired School Teacher and Farmer"
+    
+    # testimonial item loop
+    - name : "P.K.Sasidharan"
+      image : "images/clients/promo7.jpg" # size 100px*100px
+      designation : "Pravasi returned to India, Farmer"
+
+    # testimonial item loop
+    - name : "P.C.Sajimon"
+      image : "images/clients/promo6.jpg" # size 100px*100px
+      designation : "Experienced Farmer"
+
+    # testimonial item loop
+    - name : "P.M.Satheesh Kumar"
+      image : "images/clients/promo8.jpg" # size 100px*100px
+      designation : "Retired Head Master and Farmer"
+
+    # testimonial item loop
+    - name : "T.A.Sadanandan"
+      image : "images/clients/promo4.jpg" # size 100px*100px
+      designation : "Experienced Farmer, also runs a dairy farm"
+
+    # testimonial item loop
+    - name : "P.K.Rahul"
+      image : "images/clients/promo5.jpg" # size 100px*100px
+      designation : "IT Professional, Dairy Farmer"
+
+    # testimonial item loop
+    - name : "A.Sreevalsan"
+      image : "images/clients/promo0.jpg" # size 100px*100px
+      designation : "Retired IT Professional, Environmentalist and Farmer"

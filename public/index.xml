@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WEFPCO | Western Ghat Farmer Producer Company</title>
+    <link>/</link>
+    <description>Recent content on WEFPCO | Western Ghat Farmer Producer Company</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 16 Dec 2020 11:22:16 +0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moringa - the superfood that could save the world!</title>
+      <link>/blog/post-1/</link>
+      <pubDate>Wed, 16 Dec 2020 11:22:16 +0600</pubDate>
+      
+      <guid>/blog/post-1/</guid>
+      <description>Moringa oleifera, commonly known as Moringa is the newest superfood on the block. This nutrient packed plant has been used in Ayurvedic medicine for thousands of years due to its long list of benefits.</description>
+    </item>
+    
+  </channel>
+</rss>
